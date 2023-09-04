@@ -101,4 +101,4 @@ model = Sequential([
 # print('CNN Test accuracy:', score[1])
 
 # モデルを保存
-model.save('cnn_practice_identification_num.h5')
+model.save('identification_num.h5')
